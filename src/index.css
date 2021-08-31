@@ -1,13 +1,166 @@
-body {
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&display=swap');
+
+* {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Rajdhani', sans-serif;
+  color: rgb(0, 0, 0);
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.navbar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 700px;
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+}
+
+.navbar h1{
+  color: crimson;
+}
+
+.navbar .links {
+  margin-left: auto;
+}
+
+.navbar a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.navbar a:hover {
+  color: crimson;
+}
+
+.content {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.newLink {
+  border: solid 1.5px transparent;
+  background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), linear-gradient(101deg, #78e4ff, #ff48fa);
+  background-origin: border-box;
+  box-shadow: 2px 1000px 1px #fff inset;
+}
+
+/* blog preview / list */
+.blog-preview {
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom: 1px solid #ece8e87e;
+}
+
+.blog-preview:hover {
+  box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
+}
+
+.blog-preview h2 {
+  font-size: 20px;
+  color: #7a007a;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.border-style {
+  border-width: 3px;
+  border-style: solid;
+  border-image: 
+    linear-gradient(
+      to bottom, 
+      red, 
+      rgba(0, 0, 0, 0)
+    ) 1 100%;
+}
+
+.blog-preview a{
+  text-decoration: none;
+}
+
+/* blog details page */
+.blog-details h2{
+  font-size: 24px;
+  color: crimson;
+  margin-bottom: 10px;
+  text-align: center;
+
+}
+.blog-details p{
+  font-size: 18px;
+  color: rgb(16, 9, 71);
+}
+.blog-details div{
+  margin: 20px 0;
+  font-size: 19px;;
+}
+.blog-details button {
+  background: crimson;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+
+}
+
+/* add new blog page*/
+.create{
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.create label{
+  text-align: left;
+  display: block;
+}
+
+.create h2{
+  font-size: 23px;
+  color: crimson;
+  margin-bottom: 30px;
+}
+
+.create input,
+.create textarea,
+.create select {
+  font-size: 16px;
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+
+.create button{
+  font-size: 17px;
+  background: crimson;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+/* not found page */
+
+.not-found{
+  text-align: center;
+}
+.not-found h1{
+  color: crimson;
+}
+.not-found p{
+  font-size: 20px;
+}
+.go-back{
+  text-decoration: none;
+  color: crimson;
+  font-size: 18px;
+  font-weight: 500;
 }

@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "title": "Welcome Blogs",
+      "body": "Ex aute in laboris non in pariatur sit voluptate tempor aliquip enim. Fugiat labore elit nostrud est excepteur. Voluptate occaecat eiusmod aliqua labore dolore id cupidatat id ea irure eu aliqua mollit.Aute cillum voluptate consectetur id id elit et aliquip deserunt ea laboris consequat consequat officia. Fugiat in commodo officia amet sunt aliqua duis cupidatat officia incididunt. Dolore nisi ex fugiat nisi. Deserunt ipsum aute culpa reprehenderit do ut mollit laboris. Id pariatur eiusmod Lorem excepteur exercitation excepteur Lorem laboris ex.",
+      "author": "Khaled",
+      "category": "featured",
+      "id": 1
+    },
+    {
+      "title": "Top 10 IT Agency",
+      "body": "Deserunt pariatur nostrud cillum amet. Non nostrud duis occaecat sint magna cillum tempor ad minim. Anim ullamco veniam officia elit nisi do laboris ex adipisicing. Voluptate qui enim mollit exercitation est nostrud tempor aute tempor excepteur est. Reprehenderit et amet mollit anim in sunt nisi non ex sint voluptate magna elit eiusmod. Ullamco pariatur excepteur incididunt amet enim ea culpa nisi elit consectetur ullamco laborum. In id magna cupidatat elit fugiat.Elit incididunt ut aliquip fugiat adipisicing ut irure labore cillum. Occaecat officia consectetur ad veniam. Velit qui labore consequat ad commodo qui enim. Aute id nulla in cillum velit. Proident eu officia consectetur veniam officia cupidatat laboris non exercitation duis labore consectetur ut. Nostrud incididunt ex in pariatur ullamco.",
+      "author": "nirob",
+      "category": "latest",
+      "id": 2
+    },
+    {
+      "title": "Best way to learn",
+      "body": "Qui et deserunt commodo laboris aute. Sunt in laborum eiusmod enim reprehenderit fugiat amet amet non ea tempor sit esse. Commodo quis ipsum cillum exercitation dolore occaecat. Ad et dolore culpa sunt. Elit aute eu eiusmod ad mollit proident fugiat et Lorem. Non exercitation enim ullamco id proident ex excepteur ea labore veniam nulla ut.Officia anim ea consequat excepteur reprehenderit. Consectetur ullamco eiusmod velit officia veniam ex sunt laborum irure. Et cillum non irure aliquip magna ea voluptate commodo duis.",
+      "author": "Khaled",
+      "category": "featured",
+      "id": 3
+    },
+    {
+      "title": "Dynamic Posts Update",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "author": "khaled",
+      "category": "featured",
+      "id": 8
+    },
+    {
+      "title": "Top 20 IT Agency",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "author": "khaled",
+      "category": "featured",
+      "id": 9
+    },
+    {
+      "title": "Top 20 IT Comany in Dhaka",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "author": "",
+      "category": "featured",
+      "id": 12
+    }
+  ]
+}
